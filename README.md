@@ -7,6 +7,6 @@ One repository for learning "Go" language.
 
 The resources I use or will use are listed below. The list will be constantly updated.
 
-   * https://github.com/avelino/awesome-go#http-clients
+   * https://github.com/avelino/awesome-go
    * https://github.com/quii/learn-go-with-tests
-   * https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_
+   * https://github.com/nicholasjackson/building-microservices-youtube
