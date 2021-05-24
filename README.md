@@ -15,3 +15,11 @@ The resources I use or will use are listed below. The list will be constantly up
 # Useful things to know
 
 To run documentation for Go programs locally, you can type: `godoc -http :8000`. If you don't have `godoc` command, you need to manually install it by typing `go get golang.org/x/tools/cmd/godoc`. Godoc extracts and generates documentation for Go programs.
+
+# Content
+
+All programs in this repository are prepared with the Test Driven Development technique.
+
+   * `hello-world` - Traditional, first program to familiarise with the basic Go syntax. 
+   * `sum-numbers` - A programme that familiarises with arrays and slices.
+   * `geometry` - Get to know Structs, methods & interfaces
