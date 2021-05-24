@@ -22,4 +22,5 @@ All programs in this repository are prepared with the Test Driven Development te
 
    * `hello-world` - Traditional, first program to familiarise with the basic Go syntax. 
    * `sum-numbers` - A programme that familiarises with arrays and slices.
-   * `geometry` - Get to know Structs, methods & interfaces
+   * `geometry` - Get to know Structs, methods & interfaces 
+   * `wallet` - Bitcoin wallet simulation. Learning about pointers.
