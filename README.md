@@ -19,8 +19,10 @@ To run documentation for Go programs locally, you can type: `godoc -http :8000`.
 # Content
 
 All programs in this repository are prepared with the Test Driven Development technique.
+These programs are really small, consisting mainly of a few lines of code. They serve to give me a better understanding of basic operations in Go.
 
    * `hello-world` - Traditional, first program to familiarise with the basic Go syntax. 
    * `sum-numbers` - A programme that familiarises with arrays and slices.
    * `geometry` - Get to know Structs, methods & interfaces 
    * `wallet` - Bitcoin wallet simulation. Learning about pointers.
+   * `greeter` - Program to learn Dependency Injection. Simply greets the user.
