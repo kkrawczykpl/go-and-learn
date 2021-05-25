@@ -11,6 +11,7 @@ The resources I use or will use are listed below. The list will be constantly up
    * https://github.com/quii/learn-go-with-tests
    * https://github.com/nicholasjackson/building-microservices-youtube
    * https://gobyexample.com/
+   * https://tour.golang.org/welcome/1 (Polish version: https://go-tour-pl1.appspot.com/list)
 
 # Useful things to know
 
